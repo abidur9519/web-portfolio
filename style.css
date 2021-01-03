@@ -1,4 +1,7 @@
-Body{font-family: 'Xanh Mono', monospace;}
+Body{
+    margin: 0%;
+    font-family: 'Xanh Mono', monospace;
+}
 h1{
     font-size: 50px;
 }
@@ -12,3 +15,11 @@ h1{
     padding-left: 3%;
 }
 .half-width img{ width: 100%;}
+.top-banner{ 
+    border: 1px solid red;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
